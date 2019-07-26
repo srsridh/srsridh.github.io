@@ -1,2 +1,2 @@
-# srsridh.gitthub.io
+# srsridh.github.io
 GitHub profile page
